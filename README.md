@@ -1,2 +1,2 @@
 # hello-world
-Just another repository
+My name is Ali and I like TypeScript and Node.js.
